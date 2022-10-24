@@ -3,7 +3,7 @@
 
  Implements union, subtract and intersect Boolean operations.
 
-Referenced [evanw's csg.js](https://github.com/evanw/csg.js/) for the most part.
+Parts of the code are referenced from [evanw's csg.js](https://github.com/evanw/csg.js/).
 
 
 
@@ -14,4 +14,4 @@ TO DO:
 
 
 \
-I just started learning Rust. This is my first Rust project. Some parts may still be optimized. Contributions are welcome.
+I just started learning Rust. This is my first Rust project. Some parts may still need optimizations. Contributions are welcome.
